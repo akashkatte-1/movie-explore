@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "poster": "https://images.pexels.com/photos/3062541/pexels-photo-3062541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 2010,
+    "rating": 8.8,
+    "runtime": "2h 28min",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "director": "Christopher Nolan",
+    "cast": [
+      {
+        "id": 1,
+        "name": "Leonardo DiCaprio",
+        "photo": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Dom Cobb",
+        "bio": "Leonardo Wilhelm DiCaprio is an American actor and film producer. Known for his work in biopics and period films, he has placed multiple times in annual rankings of the world's highest-paid actors.",
+        "birthdate": "November 11, 1974"
+      },
+      {
+        "id": 2,
+        "name": "Joseph Gordon-Levitt",
+        "photo": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Arthur",
+        "bio": "Joseph Leonard Gordon-Levitt is an American actor and filmmaker. He has received various accolades, including nominations for the Golden Globe Award for Best Actor.",
+        "birthdate": "February 17, 1981"
+      },
+      {
+        "id": 3,
+        "name": "Ellen Page",
+        "photo": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Ariadne",
+        "bio": "Elliot Page is a Canadian actor and producer. He has received various accolades, including an Academy Award nomination, two BAFTA Awards, and Emmy Award nominations.",
+        "birthdate": "February 21, 1987"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "poster": "https://images.pexels.com/photos/1486064/pexels-photo-1486064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 1994,
+    "rating": 9.3,
+    "runtime": "2h 22min",
+    "genres": ["Drama"],
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "director": "Frank Darabont",
+    "cast": [
+      {
+        "id": 4,
+        "name": "Tim Robbins",
+        "photo": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Andy Dufresne",
+        "bio": "Timothy Francis Robbins is an American actor, filmmaker, and musician. He is known for his roles in films such as Bull Durham, Jacob's Ladder, and The Shawshank Redemption.",
+        "birthdate": "October 16, 1958"
+      },
+      {
+        "id": 5,
+        "name": "Morgan Freeman",
+        "photo": "https://images.pexels.com/photos/834863/pexels-photo-834863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Ellis Boyd 'Red' Redding",
+        "bio": "Morgan Freeman is an American actor, director, and narrator. He is known for his distinctive deep voice and various roles in a wide variety of film genres.",
+        "birthdate": "June 1, 1937"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "poster": "https://images.pexels.com/photos/1120162/pexels-photo-1120162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 2008,
+    "rating": 9.0,
+    "runtime": "2h 32min",
+    "genres": ["Action", "Crime", "Drama"],
+    "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "director": "Christopher Nolan",
+    "cast": [
+      {
+        "id": 6,
+        "name": "Christian Bale",
+        "photo": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Bruce Wayne / Batman",
+        "bio": "Christian Charles Philip Bale is an English actor. Known for his versatility and physical transformations for his roles, he has been a leading man in films of several genres.",
+        "birthdate": "January 30, 1974"
+      },
+      {
+        "id": 7,
+        "name": "Heath Ledger",
+        "photo": "https://images.pexels.com/photos/2741701/pexels-photo-2741701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Joker",
+        "bio": "Heath Andrew Ledger was an Australian actor and music video director. After playing roles in Australian television and film during the 1990s, Ledger moved to the United States in 1998 to develop his film career.",
+        "birthdate": "April 4, 1979"
+      },
+      {
+        "id": 8,
+        "name": "Aaron Eckhart",
+        "photo": "https://images.pexels.com/photos/3220360/pexels-photo-3220360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Harvey Dent",
+        "bio": "Aaron Edward Eckhart is an American actor. Born in Cupertino, California, Eckhart moved to the United Kingdom at age 13, when his father relocated the family.",
+        "birthdate": "March 12, 1968"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "id": 4,
+    "title": "Pulp Fiction",
+    "poster": "https://images.pexels.com/photos/4033680/pexels-photo-4033680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 1994,
+    "rating": 8.9,
+    "runtime": "2h 34min",
+    "genres": ["Crime", "Drama"],
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "director": "Quentin Tarantino",
+    "cast": [
+      {
+        "id": 9,
+        "name": "John Travolta",
+        "photo": "https://images.pexels.com/photos/1082962/pexels-photo-1082962.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Vincent Vega",
+        "bio": "John Joseph Travolta is an American actor and singer. He rose to fame during the 1970s, appearing on the television sitcom Welcome Back, Kotter and starring in the box office successes Carrie, Saturday Night Fever, and Grease.",
+        "birthdate": "February 18, 1954"
+      },
+      {
+        "id": 10,
+        "name": "Uma Thurman",
+        "photo": "https://images.pexels.com/photos/2804282/pexels-photo-2804282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Mia Wallace",
+        "bio": "Uma Karuna Thurman is an American actress, producer and fashion model. Prolific in film and television productions encompassing a variety of genres, she had her breakthrough in Dangerous Liaisons.",
+        "birthdate": "April 29, 1970"
+      },
+      {
+        "id": 11,
+        "name": "Samuel L. Jackson",
+        "photo": "https://images.pexels.com/photos/2576788/pexels-photo-2576788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Jules Winnfield",
+        "bio": "Samuel Leroy Jackson is an American actor and producer. One of the most widely recognized actors of his generation, the films in which he has appeared have collectively grossed over $27 billion worldwide.",
+        "birthdate": "December 21, 1948"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+  },
+  {
+    "id": 5,
+    "title": "The Lord of the Rings: The Return of the King",
+    "poster": "https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 2003,
+    "rating": 8.9,
+    "runtime": "3h 21min",
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "director": "Peter Jackson",
+    "cast": [
+      {
+        "id": 12,
+        "name": "Elijah Wood",
+        "photo": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Frodo Baggins",
+        "bio": "Elijah Jordan Wood is an American actor and producer. He is best known for his portrayal of Frodo Baggins in the Lord of the Rings film trilogy and The Hobbit: An Unexpected Journey.",
+        "birthdate": "January 28, 1981"
+      },
+      {
+        "id": 13,
+        "name": "Viggo Mortensen",
+        "photo": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Aragorn",
+        "bio": "Viggo Peter Mortensen Jr. is an American actor, author, musician, photographer, poet, and painter. Born in New York to a Danish father and American mother, he was a resident of Venezuela and Argentina during his childhood.",
+        "birthdate": "October 20, 1958"
+      },
+      {
+        "id": 14,
+        "name": "Ian McKellen",
+        "photo": "https://images.pexels.com/photos/941693/pexels-photo-941693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Gandalf",
+        "bio": "Sir Ian Murray McKellen CH CBE is an English actor. With a career spanning six decades, he has performed in genres ranging from Shakespearean and modern theatre to popular fantasy and science fiction.",
+        "birthdate": "May 25, 1939"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+  },
+  {
+    "id": 6,
+    "title": "Forrest Gump",
+    "poster": "https://images.pexels.com/photos/2093720/pexels-photo-2093720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 1994,
+    "rating": 8.8,
+    "runtime": "2h 22min",
+    "genres": ["Drama", "Romance"],
+    "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "director": "Robert Zemeckis",
+    "cast": [
+      {
+        "id": 15,
+        "name": "Tom Hanks",
+        "photo": "https://images.pexels.com/photos/1484771/pexels-photo-1484771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Forrest Gump",
+        "bio": "Thomas Jeffrey Hanks is an American actor and filmmaker. Known for both his comedic and dramatic roles, he is one of the most popular and recognizable film stars worldwide, and is regarded as an American cultural icon.",
+        "birthdate": "July 9, 1956"
+      },
+      {
+        "id": 16,
+        "name": "Robin Wright",
+        "photo": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Jenny Curran",
+        "bio": "Robin Gayle Wright is an American actress and director. She has won a Golden Globe Award and a Satellite Award, and has received eleven Emmy Award nominations for her work in television.",
+        "birthdate": "April 8, 1966"
+      },
+      {
+        "id": 17,
+        "name": "Gary Sinise",
+        "photo": "https://images.pexels.com/photos/1516532/pexels-photo-1516532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Lieutenant Dan Taylor",
+        "bio": "Gary Alan Sinise is an American actor, director, musician, producer and philanthropist. Among other awards, he has won an Emmy Award, a Golden Globe Award, a star on Hollywood Walk of Fame and has been nominated for an Academy Award.",
+        "birthdate": "March 17, 1955"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "poster": "https://images.pexels.com/photos/2907428/pexels-photo-2907428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 1999,
+    "rating": 8.7,
+    "runtime": "2h 16min",
+    "genres": ["Action", "Sci-Fi"],
+    "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      {
+        "id": 18,
+        "name": "Keanu Reeves",
+        "photo": "https://images.pexels.com/photos/1553783/pexels-photo-1553783.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Neo",
+        "bio": "Keanu Charles Reeves is a Canadian actor. Born in Beirut and raised in Toronto, Reeves began acting in theatre productions and in television films before making his feature film debut in Youngblood.",
+        "birthdate": "September 2, 1964"
+      },
+      {
+        "id": 19,
+        "name": "Laurence Fishburne",
+        "photo": "https://images.pexels.com/photos/1181711/pexels-photo-1181711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Morpheus",
+        "bio": "Laurence John Fishburne III is an American actor, playwright, producer, screenwriter, and film director. He is known for playing Morpheus in The Matrix trilogy.",
+        "birthdate": "July 30, 1961"
+      },
+      {
+        "id": 20,
+        "name": "Carrie-Anne Moss",
+        "photo": "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Trinity",
+        "bio": "Carrie-Anne Moss is a Canadian actress. Following early roles on television, she rose to international prominence for her role of Trinity in The Matrix series.",
+        "birthdate": "August 21, 1967"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "id": 8,
+    "title": "Goodfellas",
+    "poster": "https://images.pexels.com/photos/5372613/pexels-photo-5372613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 1990,
+    "rating": 8.7,
+    "runtime": "2h 26min",
+    "genres": ["Biography", "Crime", "Drama"],
+    "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "director": "Martin Scorsese",
+    "cast": [
+      {
+        "id": 21,
+        "name": "Robert De Niro",
+        "photo": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "James 'Jimmy' Conway",
+        "bio": "Robert Anthony De Niro Jr. is an American actor, producer, and director. He is particularly known for his nine collaborations with filmmaker Martin Scorsese, and is the recipient of various accolades.",
+        "birthdate": "August 17, 1943"
+      },
+      {
+        "id": 22,
+        "name": "Ray Liotta",
+        "photo": "https://images.pexels.com/photos/2102415/pexels-photo-2102415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Henry Hill",
+        "bio": "Raymond Allen Liotta was an American actor and producer. He was known for playing Henry Hill in the Martin Scorsese film Goodfellas, as well as for starring in Field of Dreams, among many other roles.",
+        "birthdate": "December 18, 1954"
+      },
+      {
+        "id": 23,
+        "name": "Joe Pesci",
+        "photo": "https://images.pexels.com/photos/1587651/pexels-photo-1587651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Tommy DeVito",
+        "bio": "Joseph Frank Pesci is an American actor and musician. He is known for portraying tough, volatile characters in a variety of genres and for his collaborations with Robert De Niro and Martin Scorsese.",
+        "birthdate": "February 9, 1943"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=qo5jJpHtI1Y"
+  },
+  {
+    "id": 9,
+    "title": "Interstellar",
+    "poster": "https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 2014,
+    "rating": 8.6,
+    "runtime": "2h 49min",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "director": "Christopher Nolan",
+    "cast": [
+      {
+        "id": 24,
+        "name": "Matthew McConaughey",
+        "photo": "https://images.pexels.com/photos/2272853/pexels-photo-2272853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Cooper",
+        "bio": "Matthew David McConaughey is an American actor and producer. He had his breakout role with a supporting performance in the coming-of-age comedy Dazed and Confused.",
+        "birthdate": "November 4, 1969"
+      },
+      {
+        "id": 25,
+        "name": "Anne Hathaway",
+        "photo": "https://images.pexels.com/photos/1898884/pexels-photo-1898884.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Brand",
+        "bio": "Anne Jacqueline Hathaway is an American actress. The recipient of various accolades, including an Academy Award, a Golden Globe Award, and a Primetime Emmy Award.",
+        "birthdate": "November 12, 1982"
+      },
+      {
+        "id": 26,
+        "name": "Jessica Chastain",
+        "photo": "https://images.pexels.com/photos/1466844/pexels-photo-1466844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Murph",
+        "bio": "Jessica Michelle Chastain is an American actress and producer. Known for her roles in films with feminist themes, she has received various accolades, including an Academy Award and a Golden Globe Award.",
+        "birthdate": "March 24, 1977"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+  },
+  {
+    "id": 10,
+    "title": "Fight Club",
+    "poster": "https://images.pexels.com/photos/5011647/pexels-photo-5011647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "year": 1999,
+    "rating": 8.8,
+    "runtime": "2h 19min",
+    "genres": ["Drama"],
+    "plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "director": "David Fincher",
+    "cast": [
+      {
+        "id": 27,
+        "name": "Brad Pitt",
+        "photo": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Tyler Durden",
+        "bio": "William Bradley Pitt is an American actor and film producer. He is the recipient of various accolades, including two Academy Awards, a British Academy Film Award, two Golden Globe Awards.",
+        "birthdate": "December 18, 1963"
+      },
+      {
+        "id": 28,
+        "name": "Edward Norton",
+        "photo": "https://images.pexels.com/photos/2741666/pexels-photo-2741666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Narrator",
+        "bio": "Edward Harrison Norton is an American actor and filmmaker. He has received numerous awards and nominations, including a Golden Globe Award and three Academy Award nominations.",
+        "birthdate": "August 18, 1969"
+      },
+      {
+        "id": 29,
+        "name": "Helena Bonham Carter",
+        "photo": "https://images.pexels.com/photos/2625124/pexels-photo-2625124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Marla Singer",
+        "bio": "Helena Bonham Carter CBE is an English actress. She is known for her work in independent films and blockbusters, particularly period dramas, and often collaborates with her former partner, filmmaker Tim Burton.",
+        "birthdate": "May 26, 1966"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=qtRKdVHc-cE"
+  },
+  {
+    "id": 11,
+    "title": "Spirited Away",
+    "poster": "https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "year": 2001,
+    "rating": 8.6,
+    "runtime": "2h 5min",
+    "genres": ["Animation", "Adventure", "Family"],
+    "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "director": "Hayao Miyazaki",
+    "cast": [
+      {
+        "id": 30,
+        "name": "Daveigh Chase",
+        "photo": "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Chihiro Ogino",
+        "bio": "Daveigh Elizabeth Chase is an American actress, singer, and voice actress, best known for her roles as Samara Morgan in The Ring and Lilo Pelekai in the Lilo & Stitch franchise.",
+        "birthdate": "July 24, 1990"
+      },
+      {
+        "id": 31,
+        "name": "Suzanne Pleshette",
+        "photo": "https://images.pexels.com/photos/3936894/pexels-photo-3936894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Yubaba / Zeniba",
+        "bio": "Suzanne Pleshette was an American actress and voice actress. Pleshette started her career in the theatre and began appearing in films in the late 1950s.",
+        "birthdate": "January 31, 1937"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
+  },
+  {
+    "id": 12,
+    "title": "The Prestige",
+    "poster": "https://images.pexels.com/photos/256525/pexels-photo-256525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "year": 2006,
+    "rating": 8.5,
+    "runtime": "2h 10min",
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "plot": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "director": "Christopher Nolan",
+    "cast": [
+      {
+        "id": 6,
+        "name": "Christian Bale",
+        "photo": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Alfred Borden",
+        "bio": "Christian Charles Philip Bale is an English actor. Known for his versatility and physical transformations for his roles, he has been a leading man in films of several genres.",
+        "birthdate": "January 30, 1974"
+      },
+      {
+        "id": 32,
+        "name": "Hugh Jackman",
+        "photo": "https://images.pexels.com/photos/821413/pexels-photo-821413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Robert Angier",
+        "bio": "Hugh Michael Jackman is an Australian actor. Beginning in theatre and television, he landed his breakthrough role as James \"Logan\" Howlett / Wolverine in the X-Men film series.",
+        "birthdate": "October 12, 1968"
+      },
+      {
+        "id": 33,
+        "name": "Scarlett Johansson",
+        "photo": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "character": "Olivia Wenscombe",
+        "bio": "Scarlett Ingrid Johansson is an American actress. She was the world's highest-paid actress in 2018 and 2019, and has featured multiple times on the Forbes Celebrity 100 list.",
+        "birthdate": "November 22, 1984"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=o4gHCmTQDVI"
+  }
+]
