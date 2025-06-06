@@ -1,4 +1,4 @@
-# Movie Explorer App
+# Angular Movie Explorer App
 
 ## Project Overview
 
@@ -56,3 +56,8 @@ The **Movie Explorer App** is a web application designed to allow users to brows
    ```bash
    git clone https://github.com/akashkatte-1/movie-explore.git
    cd movie-explore
+2. **Start the server:**
+   ```bash
+   ng serve -o
+3. **To View Live website:**
+   https://poetic-douhua-c57f9c.netlify.app/
